@@ -12,7 +12,7 @@
 1. add
 
    * ```git add <추가하고싶은 파일>```
-     * git add . : 현재 폴더의 모든 파일과 폴더를 add
+     * ```git add . ```: 현재 폴더의 모든 파일과 폴더를 add
    * working directory -> staging area 로 파일 이동
 
 2. config
@@ -24,7 +24,7 @@
 
    *  ```git commit -m "메세지"```
    * 스냅샷을 찍는 동작
-   * add 되어있는 파일들을 하나의 묶음으로 저장
+   * ```add``` 되어있는 파일들을 하나의 묶음으로 저장
    * 메세지에 들어가는 내용은 기능 단위로
 
 4. remote
