@@ -40,3 +40,20 @@ $ touch 09_remote_tr.md
 
 * 해당 내용까지 저장 후 push
 
+```bash
+$ git add 09_remote_tr.md
+$ git commit -m "OSX->WIN10"
+$ git push origin master
+```
+
+### 결과 확인
+
+![09_image](09_remote_tr.assets/09_image.PNG)
+
+### 느낀점
+
+- 형상관리에 대해서 어렵다고만 생각했는데 여전히 어렵다.
+- 하지만 재밌다.
+- 익숙해지기 위해서 TIL을 열심히 가꾸어야겠다.
+- 다시 push하고 맥북에서 `pull` 해야되는 것.. 잊지말자..오히려 좋아
+
