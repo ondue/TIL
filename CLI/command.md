@@ -24,7 +24,7 @@
 
   ``` cd git => git 폴더로 이동 ```
 
-touch
+**touch**
 
 * 파일을 생성
 
