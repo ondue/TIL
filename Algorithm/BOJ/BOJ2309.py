@@ -1,4 +1,4 @@
-# 일곱 난쟁이
+#TODO: 일곱 난쟁이
 
 n = []
 for i in range(9):
