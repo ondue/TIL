@@ -1,4 +1,5 @@
 #TODO: 에라토스테네스의 체
+
 N, K = map(int, input().split())
 
 prime_number = [True for _ in range(N+1)]

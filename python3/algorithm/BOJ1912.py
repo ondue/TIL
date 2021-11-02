@@ -1,3 +1,5 @@
+#TODO: 연속합
+
 N = int(input())
 L = list(map(int, input().split()))
 S = 0

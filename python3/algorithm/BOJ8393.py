@@ -1,4 +1,4 @@
-#합
+#TODO: 합
 
 N = int(input())
 ret = [0 for _ in range(N+1)]
